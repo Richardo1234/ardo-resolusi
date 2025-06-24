@@ -1,9 +1,11 @@
 RENCANA KONTEN RICHARDO
 -Java Script
 a.framework JS
-^Angular
+^Vue
 ^React
+-fundametal data structure
 -PHP
 ^Laravel
 -Interview
 -vlog
+-Python

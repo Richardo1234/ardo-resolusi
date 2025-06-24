@@ -3,7 +3,6 @@ RENCANA KONTEN RICHARDO
 a.framework JS
 ^Vue
 ^React
-
 -fundametal data structure
 -PHP
 ^Laravel

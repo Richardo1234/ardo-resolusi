@@ -1,5 +1,6 @@
 RENCANA KONTEN RICHARDO
--Java Scriot
+-Java Script
+a.framework JS
 -PHP
 -Interview
 -vlog
